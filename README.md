@@ -14,6 +14,8 @@ body text
 
 # Horizontal Line `---`
 
+This is the horizontal line
+
 ---
 
 # Line Breaks (Double rule) or `<br>`
