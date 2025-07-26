@@ -56,10 +56,6 @@ __Bolded text__ done using `__Bolded Text__`
 
 _Italicised text_ done using `_Italicised text_`
 
-## Underlining: `<u>text</u>`
-
-<u>Underlined text</u> done using `<u>Underlined text</u>`
-
 ## Strikethrough: `~~text~~`
 
 ~~strikethrough text~~ done using `~~strikethrough text~~`
