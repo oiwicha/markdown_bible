@@ -166,12 +166,12 @@ Examples:
 ## Centering Images
 
 > ```html
-> <center><img src = "https://link_to_image"></center>
+> <div align="center"><img src = "https://link_to_image"></div>
 > ```
 
-<center>
+<div align="center">
     <img src = "https://i.scdn.co/image/ab67616d00001e02c5ce7af35c36153b7e0a620c" alt='image_missing' width="300" height="300">
-</center>
+</div>
 
 # Tables
 
@@ -195,60 +195,23 @@ Examples:
 ## Centering Table
 > **Markdown**
 > ```html
-> <center>
+> <div align="center">
 > 
 > TABLE
 > 
-> </center>
+> </div>
 > ```
 
-<center>
 
+<div align="center">
 
 |col 1|col 2|col3|            
 |-|--|-------|                 
 |row1_1 |row1_2|---|
-|N/A           |row2_2|row3_3| 
+|N/A           |row2_2|row3_3|
 
-</center>
+</div>
 
-## Making Table Fit-to-window instead of Fit-to-Content
-
-> Tables are fit-to-content by default
-
-> Unfortunately Github doesn't allow CSS styling, so the table must be made using HTML
-
-> To make a table in HTML, follow this format
-> ```html
-> <table style="width: 100%; text-align: center">
->   <tr>
->     <th>Column 1</th>
->     <th>Column 2</th>
->   </tr>
->   <tr class="center">
->     <td>Data 1.1</td>
->     <td>Data 2.1</td>
->   </tr>
->     <tr>
->     <td>Data 1.2</td>
->     <td>Data 2.2</td>
->   </tr>
-> </table>
-
-<table style="width: 100%; text-align: center">
-  <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-  </tr>
-  <tr>
-    <td>Data 1.1</td>
-    <td>Data 2.1</td>
-  </tr>
-    <tr>
-    <td>Data 1.2</td>
-    <td>Data 2.2</td>
-  </tr>
-</table>
 
 # Emojis :joy: :heart:
 
