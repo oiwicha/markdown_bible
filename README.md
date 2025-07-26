@@ -237,4 +237,26 @@ Here is the content in subsubsection1
 <summary><h2>Subsection2</h2></summary>
 
 Here is the content in subsection2
+</details>
+
+# Block text `>`
+
+> Example block text. Looks a lot like the telegram reply
+> > Nested block text is possible
+
+# LaTeX (for the Mathematicians & Scientists) `$MathExpression$` or `$$MathExpression$$`
+
+if you want it to be part of text like $a^2 + b^2 = c^2$, use single `$` like `$a^2 + b^2 = c^2$`
+
+But if you want to put it in the center, use `$$MathExpression$$`, for example:
+
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+> Entire full list of LaTeX expressions [HERE](https://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
+
+Greek letters:
+
+<img width="670" height="368" alt="image" src="https://github.com/user-attachments/assets/3f10e7f2-75a7-4bbf-8c74-eea561351e39"/>
+
+
 
