@@ -73,9 +73,9 @@ A = B<sub>1</sub>X<sub>1</sub> + B<sub>2</sub>X<sub>2</sub><sup>2</sup> + C
 ## Hyperlinking
 
 ### Internally, within this markdown/ipynb headers
-- E.g. [Horizontal Line](#horizontal-line) section
+- E.g. [Horizontal Line](#horizontal-line----) section
     - `[Text](#formatted-header-name)`
-    - E.g. `[Headings](#headings-1)` gets you [Headings](#headings-1)
+    - E.g. `[Headings](#headings-1)` gets you [Headings](#headings-1-)
     - Good for making a directory / table of contents
 
 ### To external site
