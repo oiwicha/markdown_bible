@@ -148,6 +148,10 @@ A = B<sub>1</sub>X<sub>1</sub> + B<sub>2</sub>X<sub>2</sub><sup>2</sup> + C
 > <a href ="https://website"><img src = "https://link_to_image"></a>
 > ```
 
+> Get a publicly available google drive image using:
+> ```html
+> <img src = 'https://drive.usercontent.google.com/download?id={GOOGLE_DRIVE_FILE_ID}'>
+
 > Notice How images fill into to the right until there's no more space, then goes down ... just like text
 
 > Use `<br>` to force vertical stacking of images
